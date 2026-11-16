@@ -1,2 +1,2 @@
-# TIAReviewAgent
+# TIASuiteReviewAgent
 TIASuite Review Agent
